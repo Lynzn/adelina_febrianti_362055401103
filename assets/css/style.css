@@ -1,0 +1,36 @@
+.black {
+  color: black;
+}
+
+.container-fluid {
+  margin-top: 90px;
+}
+
+.welcome {
+  font-family: "Courier New", Courier, monospace;
+  padding: 70px 100px;
+  text-align: left;
+}
+
+.button-welcome {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #fff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  background: #1991c9;
+  color: #fff;
+}
+
+.img-rounded {
+  width: 200px !important;
+  height: 200px !important;
+  overflow: hidden;
+  border-radius: 100px 100px 0px 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.text-courier {
+  font-family: "Courier New", Courier, monospace;
+}
